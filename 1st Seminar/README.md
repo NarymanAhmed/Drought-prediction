@@ -14,3 +14,4 @@ Climate Scene Graduation Project
 !["General System Architecture"](imgs/softwareArchitecture.png)
 !["Detailed System Architecture"](imgs/SystemArchitecture2.png)
 !["Software Tools"](imgs/SoftwareTools.png)
+!["Thank you"](imgs/ThankYou.png)
